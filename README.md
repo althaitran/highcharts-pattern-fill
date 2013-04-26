@@ -9,7 +9,7 @@ to use.
 Fixed patterns supported
 ------------------------
 
-striped
+* striped
 
 
 How to use
