@@ -1,10 +1,5 @@
------------------------------
--- Highcharts Pattern Fill --
------------------------------
-
-
-Introduction
-------------
+Highcharts Pattern Fill
+=======================
 
 This plugin enables highcharts.js to have pattern fillings for its graphs, instead of
 just single colors. Right now, it simply supports selecting from a fixed set of patterns
